@@ -3,7 +3,7 @@
 <param ve-config 
        title="Moravian Pottery and Tile Works"
        author="Alexis"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://tile.loc.gov/image-services/iiif/service:pnp:highsm:15300:15360/full/pct:12.5/0/default.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://tile.loc.gov/image-services/iiif/service:pnp:highsm:15300:15360/full/pct:12.5/0/default.jpg(https://www.loc.gov/item/2011633553/manifest.json)" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
